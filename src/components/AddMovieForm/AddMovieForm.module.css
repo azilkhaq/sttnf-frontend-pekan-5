@@ -44,6 +44,14 @@
   border-radius: 25px;
 }
 
+.hero__input{
+  font-weight: 50;
+  color: #495055;
+  padding: 0.8rem 10rem;
+  border-radius: 10px;
+}
+
+
 /* Medium Screen */
 @media (min-width: 768px) {
   /*
